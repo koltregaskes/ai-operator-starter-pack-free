@@ -15,7 +15,7 @@ If you want it as one polished, type-set PDF bundle (with the lessons retypeset 
 |------|------------|
 | [`02-operator-worksheet.md`](./02-operator-worksheet.md) | Four exercises: harness audit, regression diary, prompt failure taxonomy, before-you-ship checklist |
 | [`03-harness-reference-card.md`](./03-harness-reference-card.md) | Single-page front+back reference for the wall by your monitor |
-| [`04-operator-prompt-kit.md`](./04-operator-prompt-kit.md) | Ten deliberate operator prompts, each with the reasoning |
+| [`04-operator-prompt-kit.txt`](./04-operator-prompt-kit.txt) | Ten deliberate operator prompts, each with the reasoning |
 | [`05-welcome-note.md`](./05-welcome-note.md) | A short note on how to use the pack |
 
 The three foundation lessons are at:
