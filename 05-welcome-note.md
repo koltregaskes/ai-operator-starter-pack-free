@@ -6,7 +6,7 @@ One page. Friendly. Sets expectations for how to use the pack.
 
 Hello, and thank you for picking this up.
 
-This is a small pack on purpose. Five PDFs, totalling about an hour of focused reading and a few hours of practice spread over a working week. There is no certificate at the end and no community to join. The pack is a finished object — read it, use it, keep the reference card next to your monitor, and come back to it when something feels off with your tools.
+This is a small pack on purpose. The free edition is four working files in this repository, plus three lessons on AI Resource Hub: about an hour of focused reading and a few hours of practice spread over a working week. There is no certificate at the end and no community to join. Read it, use it, keep the reference card next to your monitor, and come back to it when something feels off with your tools.
 
 **The order I would read these in:**
 
@@ -20,7 +20,7 @@ Then turn to the practical material:
 5. Pin the **Harness Reference Card** to a wall, a corkboard, or the back of your monitor. Look at it the next time something feels wrong.
 6. Skim the **Operator Prompt Kit** the first time. Pick three prompts that match a problem you have right now. Use them this week.
 
-**A small request:** if any single piece of this pack lands particularly well or particularly badly, write me one sentence about why and reply to your purchase confirmation email. The pack improves faster from one honest "this exercise did not work" than from ten polite thank-you notes.
+**A small request:** if any single piece of this pack lands particularly well or particularly badly, open an issue on this repository and write one sentence about why. The pack improves faster from one honest "this exercise did not work" than from ten polite thank-you notes.
 
 **Where the rest of this material lives:**
 

@@ -17,6 +17,8 @@ If you want it as one polished, type-set PDF bundle (with the lessons retypeset 
 | [`03-harness-reference-card.md`](./03-harness-reference-card.md) | Single-page front+back reference for the wall by your monitor |
 | [`04-operator-prompt-kit.txt`](./04-operator-prompt-kit.txt) | Ten deliberate operator prompts, each with the reasoning |
 | [`05-welcome-note.md`](./05-welcome-note.md) | A short note on how to use the pack |
+| [`aiosp-free-v1.0.0.zip`](./aiosp-free-v1.0.0.zip) | Those four files packed as one small download |
+| [`LICENCE`](./LICENCE) | CC BY-NC-SA 4.0 |
 
 The three foundation lessons are at:
 
